@@ -89,8 +89,8 @@ def make_app():
 if __name__ == "__main__":
     app = make_app()
     app.listen(8888)
-    logging.info("Server running at http://localhost:8888")
-    webbrowser.open("http://localhost:8888")
+    logging.info("Server running at http://localhost:9999")
+    webbrowser.open("http://localhost:9999")
 
     # Запуск Redis слушателя
     loop = asyncio.get_event_loop()
