@@ -1,6 +1,6 @@
 # WEB Chat from Redis
 
-Этот проект представляет собой чат в стиле с использованием WebSocket и Redis для обмена сообщениями в реальном времени.
+Этот проект представляет собой чат с использованием WebSocket и Redis для обмена сообщениями в реальном времени.
 
 [![image.png](https://i.postimg.cc/1tqhGFQz/image.png)](https://postimg.cc/ftDrZJk4)
 
