@@ -2,6 +2,8 @@
 
 Этот проект представляет собой чат в стиле с использованием WebSocket и Redis для обмена сообщениями в реальном времени.
 
+[![image.png](https://i.postimg.cc/1tqhGFQz/image.png)](https://postimg.cc/ftDrZJk4)
+
 ## Описание
 
 Приложение использует:
@@ -40,4 +42,4 @@ redis-cli ping
 ```bash
 python main.py
 ```
-## Сервер запустится локально по адресу http://localhost:####
+## Сервер запустится локально по адресу http://localhost:9999
